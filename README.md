@@ -11,3 +11,4 @@ Foi utilizado o dataset *Default of Credit Card Clients*, obtido no site Kaggle,
 ## 2. Descrição dos arquivos
 - mvp3-analise-dados-marcos-miranda.ipynb: notebook python contendo o código fonte e os comentários
 - UCI_Credit_Card.csv: arquivo CSV com os dados do dataset, obtido do site Kaggle.com
+- requirements.txt: pacotes necessários ao notebook
